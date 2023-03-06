@@ -2,4 +2,7 @@
 Dominando a Criação e Tunning de Modelos de Machine Learning Utilizando Spark e Python!
 
 ### Certificado:
+![PySpark](certificate.png)
+
+### Demo Jupyter Notebbok:
 ![PySpark](demo.png)
